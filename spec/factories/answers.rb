@@ -1,6 +1,5 @@
 FactoryGirl.define do
   factory :answer do
-    user nil
-    form nil
+    form
   end
 end
